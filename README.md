@@ -66,9 +66,8 @@
 ### Sale report
 
 # Unit Test
-
-* Write unit test for business service
+* Do 2 exercises: Perfect File and Harry Potter
+* Write unit test for business service in Ecommerce Project
 
 # Front end - Angular*
-
 * Implement Admin features using REST, JWT, Angular
