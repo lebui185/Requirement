@@ -50,6 +50,10 @@
 
 ## Admin
 
+### Account
+* Login
+* Logout
+
 ### CRUD Product
 * A product can have an image
 
