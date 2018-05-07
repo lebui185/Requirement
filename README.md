@@ -19,7 +19,7 @@
 * English (recommended)
 * Functional programming (optional)
 
-# Project: Ecommerce website
+# 1 Project: Ecommerce website (2 weeks)
 
 ## Client
 
@@ -65,9 +65,9 @@
 
 ### Sale report
 
-# Unit Test
+# 2 Unit Test (2 weeks)
 * Do 2 exercises: Perfect File and Harry Potter
 * Write unit test for business service in Ecommerce Project
 
-# Front end - Angular*
+# 3 Front end - Angular* (2 weeks)
 * Implement Admin features using REST, JWT, Angular
